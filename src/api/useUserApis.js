@@ -1,4 +1,3 @@
-import axios from "axios";
 import { getAllUsers, getUserDetails } from "./userApis.js";
 
 function responseCallBack(response){
